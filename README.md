@@ -1,4 +1,4 @@
-# scratch_prog1_hazi
+# scratch_projekt
 
 Scratch-ben készítettem egy fogócska játékot. Tartozik hozzá egy történet, ami átugorható. Két főszereplője egy kutya (Buksi) és egy kacsa (Ruby). A nyilakkal irányítható és a specaval meg lehet szakítani a játékot. A játék lényege megtalálni a kacsát miután elbújt és aztán elkapni. A körök száma válaszható. Nagyon szórakoztató és gyors játékmenetű. Próbáltam bevonni a felhasználót, hogy élvezetesebb legyen. Jó szórakozást kívánok a játékhoz!
 
